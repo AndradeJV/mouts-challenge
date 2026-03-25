@@ -21,7 +21,7 @@ npm install
 ## Estrutura do Projeto
 
 ```
-mouts-ti-challenge/
+mouts-it-challenge/
 ├── cypress/
 │   ├── e2e/
 │   │   ├── api/                    # Testes de API
